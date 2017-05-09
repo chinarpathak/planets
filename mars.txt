@@ -1,3 +1,5 @@
+I have made some changes to chapter 1
+
 test file explained after what git is capable of
 
 
